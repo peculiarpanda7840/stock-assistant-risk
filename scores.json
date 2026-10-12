@@ -1,0 +1,95 @@
+{
+  "publishedAt": "2026-10-12T21:02:45Z",
+  "engine": "2.0.0",
+  "tickers": {
+    "GEV": {
+      "asOf": "2026-10-12",
+      "score": 65,
+      "ratingRaw": "Hold",
+      "rating": "Hold",
+      "confidence": "med",
+      "coverage": 0.917,
+      "pillars": {
+        "quality": 65.5,
+        "growth": 55.7,
+        "valuation": 56.0,
+        "balance": 76.4,
+        "momentum": 70.2
+      },
+      "overlays": [],
+      "caps": [],
+      "peerSet": "sector energy_infrastructure (18)",
+      "benchmarks": {
+        "primary": "SPY",
+        "sector": "XLU"
+      },
+      "dcf": {
+        "impliedGrowth": null,
+        "consensusGrowth": null,
+        "irrMinusR": null,
+        "r": null,
+        "nm": "not available"
+      }
+    },
+    "GOOGL": {
+      "asOf": "2026-10-12",
+      "score": 52,
+      "ratingRaw": "Hold",
+      "rating": "Hold",
+      "confidence": "low",
+      "coverage": 0.971,
+      "pillars": {
+        "quality": 35.1,
+        "growth": 53.9,
+        "valuation": 30.7,
+        "balance": 78.2,
+        "momentum": 61.1
+      },
+      "overlays": [],
+      "caps": [],
+      "peerSet": "parent tech (59)",
+      "benchmarks": {
+        "primary": "SPY",
+        "sector": "QQQ"
+      },
+      "dcf": {
+        "impliedGrowth": null,
+        "consensusGrowth": null,
+        "irrMinusR": null,
+        "r": null,
+        "nm": "not available"
+      }
+    },
+    "VST": {
+      "asOf": "2026-10-12",
+      "score": 51,
+      "ratingRaw": "Hold",
+      "rating": "Hold",
+      "confidence": "low",
+      "coverage": 0.975,
+      "pillars": {
+        "quality": 47.9,
+        "growth": 44.5,
+        "valuation": 58.5,
+        "balance": 44.5,
+        "momentum": 46.4
+      },
+      "overlays": [
+        "insider: +3 points"
+      ],
+      "caps": [],
+      "peerSet": "sector energy_infrastructure (18)",
+      "benchmarks": {
+        "primary": "SPY",
+        "sector": "XLU"
+      },
+      "dcf": {
+        "impliedGrowth": null,
+        "consensusGrowth": null,
+        "irrMinusR": null,
+        "r": null,
+        "nm": "not available"
+      }
+    }
+  }
+}
