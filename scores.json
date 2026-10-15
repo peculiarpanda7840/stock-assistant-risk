@@ -1,9 +1,9 @@
 {
-  "publishedAt": "2026-10-14T20:47:51Z",
+  "publishedAt": "2026-10-15T20:46:40Z",
   "engine": "2.0.0",
   "tickers": {
     "GEV": {
-      "asOf": "2026-10-14",
+      "asOf": "2026-10-15",
       "score": 63,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -11,10 +11,10 @@
       "coverage": 0.917,
       "pillars": {
         "quality": 65.5,
-        "growth": 55.7,
-        "valuation": 59.8,
-        "balance": 75.3,
-        "momentum": 59.7
+        "growth": 55.1,
+        "valuation": 60.4,
+        "balance": 74.9,
+        "momentum": 59.5
       },
       "overlays": [],
       "caps": [],
@@ -24,15 +24,15 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.1239,
-        "consensusGrowth": 0.2453,
-        "irrMinusR": 0.058,
-        "r": 0.1127,
+        "impliedGrowth": 0.1202,
+        "consensusGrowth": 0.2457,
+        "irrMinusR": 0.0604,
+        "r": 0.1125,
         "nm": null
       }
     },
     "GOOGL": {
-      "asOf": "2026-10-14",
+      "asOf": "2026-10-15",
       "score": 51,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -40,10 +40,10 @@
       "coverage": 0.971,
       "pillars": {
         "quality": 35.1,
-        "growth": 51.2,
-        "valuation": 31.5,
+        "growth": 52.2,
+        "valuation": 30.2,
         "balance": 78.2,
-        "momentum": 57.9
+        "momentum": 58.4
       },
       "overlays": [],
       "caps": [],
@@ -53,15 +53,15 @@
         "sector": "QQQ"
       },
       "dcf": {
-        "impliedGrowth": 0.5482,
-        "consensusGrowth": 0.3328,
-        "irrMinusR": -0.0485,
-        "r": 0.1093,
+        "impliedGrowth": 0.5485,
+        "consensusGrowth": 0.336,
+        "irrMinusR": -0.0479,
+        "r": 0.1091,
         "nm": null
       }
     },
     "VST": {
-      "asOf": "2026-10-14",
+      "asOf": "2026-10-15",
       "score": 51,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -69,10 +69,10 @@
       "coverage": 0.975,
       "pillars": {
         "quality": 47.9,
-        "growth": 47.6,
-        "valuation": 64.2,
+        "growth": 46.2,
+        "valuation": 65.0,
         "balance": 44.5,
-        "momentum": 36.2
+        "momentum": 38.9
       },
       "overlays": [
         "insider: +3 points"
@@ -84,10 +84,10 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.2002,
-        "consensusGrowth": 0.238,
-        "irrMinusR": 0.0141,
-        "r": 0.1043,
+        "impliedGrowth": 0.2018,
+        "consensusGrowth": 0.2382,
+        "irrMinusR": 0.0136,
+        "r": 0.1041,
         "nm": null
       }
     }
