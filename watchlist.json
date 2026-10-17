@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-10-17T03:39:47Z",
+  "publishedAt": "2026-10-17T03:56:45Z",
   "tickers": [
     {
       "ticker": "GEV",
@@ -42,8 +42,8 @@
         "priceAbove": null
       },
       "earningsNext": null,
-      "thesisBreakers": null,
-      "priceInvalidationClose": null,
+      "thesisBreakers": "net debt/EBITDA > 4.0x (3.5x now), TTM operating cash flow < $4.1B (the FY25 trough), buybacks paused 2 straight quarters or dividend cut, RPO (contracted backlog) down q/q",
+      "priceInvalidationClose": 129.68,
       "phaseNote": null
     },
     {
@@ -57,8 +57,8 @@
         "priceAbove": null
       },
       "earningsNext": null,
-      "thesisBreakers": null,
-      "priceInvalidationClose": null,
+      "thesisBreakers": "TTM revenue growth < +20% YoY (+48.7% now), TTM operating margin < 40% (48.1% now), NTM consensus revenue growth < +30% (+92% now), net debt/EBITDA > 2.0x (0.8x now)",
+      "priceInvalidationClose": 294.04,
       "phaseNote": null
     }
   ]
