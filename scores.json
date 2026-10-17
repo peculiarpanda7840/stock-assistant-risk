@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-10-16T20:46:41Z",
+  "publishedAt": "2026-10-17T03:40:06Z",
   "engine": "2.0.0",
   "tickers": {
     "GEV": {
@@ -29,7 +29,9 @@
         "irrMinusR": 0.0612,
         "r": 0.1126,
         "nm": null
-      }
+      },
+      "universePct": null,
+      "profile": null
     },
     "GOOGL": {
       "asOf": "2026-10-16",
@@ -58,7 +60,9 @@
         "irrMinusR": -0.0461,
         "r": 0.1084,
         "nm": null
-      }
+      },
+      "universePct": null,
+      "profile": null
     },
     "VST": {
       "asOf": "2026-10-16",
@@ -89,7 +93,9 @@
         "irrMinusR": 0.0128,
         "r": 0.1036,
         "nm": null
-      }
+      },
+      "universePct": null,
+      "profile": null
     },
     "AVGO": {
       "asOf": "2026-10-16",
@@ -120,7 +126,9 @@
         "irrMinusR": 0.0165,
         "r": 0.1289,
         "nm": null
-      }
+      },
+      "universePct": null,
+      "profile": null
     }
   }
 }
