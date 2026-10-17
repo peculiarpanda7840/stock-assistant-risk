@@ -1,0 +1,65 @@
+{
+  "publishedAt": "2026-10-17T03:39:47Z",
+  "tickers": [
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "alerts": {
+        "pctMove": 4.0,
+        "atrMove": 2.0,
+        "relVolume": 2.0,
+        "priceBelow": null,
+        "priceAbove": null
+      },
+      "earningsNext": "2026-10-28",
+      "thesisBreakers": "gas turbine backlog down q/q, 2026 FCF guide < $11.5B, Power segment margin < 16%",
+      "priceInvalidationClose": 852.6,
+      "phaseNote": null
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "alerts": {
+        "pctMove": 3.0,
+        "atrMove": 2.0,
+        "relVolume": 2.0,
+        "priceBelow": null,
+        "priceAbove": null
+      },
+      "earningsNext": "2026-10-28",
+      "thesisBreakers": "Search growth < 5%, Cloud growth < 40% while capex rises, share count up > 2%",
+      "priceInvalidationClose": 330.84,
+      "phaseNote": "capex guide $195-205B and buybacks paused 1H26, so the phase read is ambiguous (not a clean Phase 4)"
+    },
+    {
+      "ticker": "VST",
+      "name": "Vistra Corp.",
+      "alerts": {
+        "pctMove": 4.0,
+        "atrMove": 2.0,
+        "relVolume": 2.0,
+        "priceBelow": null,
+        "priceAbove": null
+      },
+      "earningsNext": null,
+      "thesisBreakers": null,
+      "priceInvalidationClose": null,
+      "phaseNote": null
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "alerts": {
+        "pctMove": 4.0,
+        "atrMove": 2.0,
+        "relVolume": 2.0,
+        "priceBelow": null,
+        "priceAbove": null
+      },
+      "earningsNext": null,
+      "thesisBreakers": null,
+      "priceInvalidationClose": null,
+      "phaseNote": null
+    }
+  ]
+}
