@@ -1,20 +1,20 @@
 {
-  "publishedAt": "2026-10-19T20:49:05Z",
+  "publishedAt": "2026-10-21T20:52:41Z",
   "engine": "2.0.0",
   "tickers": {
     "GEV": {
-      "asOf": "2026-10-19",
-      "score": 62,
+      "asOf": "2026-10-21",
+      "score": 59,
       "ratingRaw": "Hold",
       "rating": "Hold",
       "confidence": "med",
       "coverage": 0.917,
       "pillars": {
         "quality": 65.5,
-        "growth": 54.4,
-        "valuation": 62.1,
-        "balance": 74.4,
-        "momentum": 51.8
+        "growth": 54.3,
+        "valuation": 60.3,
+        "balance": 74.9,
+        "momentum": 41.5
       },
       "overlays": [],
       "caps": [],
@@ -24,32 +24,32 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.1163,
-        "consensusGrowth": 0.2475,
-        "irrMinusR": 0.0637,
+        "impliedGrowth": 0.12,
+        "consensusGrowth": 0.2483,
+        "irrMinusR": 0.0619,
         "r": 0.1125,
         "nm": null
       },
       "universePct": {
-        "pct": 88,
+        "pct": 78,
         "n": 532,
         "snapshot": "2026-10-17"
       },
-      "profile": "strong: balance (74), quality (66), valuation (62)"
+      "profile": "strong: balance (75), quality (66), valuation (60)"
     },
     "GOOGL": {
-      "asOf": "2026-10-19",
-      "score": 50,
+      "asOf": "2026-10-21",
+      "score": 48,
       "ratingRaw": "Hold",
       "rating": "Hold",
-      "confidence": "med",
+      "confidence": "low",
       "coverage": 0.971,
       "pillars": {
         "quality": 34.7,
-        "growth": 53.4,
-        "valuation": 30.5,
+        "growth": 50.5,
+        "valuation": 31.4,
         "balance": 78.1,
-        "momentum": 53.7
+        "momentum": 46.9
       },
       "overlays": [],
       "caps": [],
@@ -59,32 +59,32 @@
         "sector": "QQQ"
       },
       "dcf": {
-        "impliedGrowth": 0.5424,
-        "consensusGrowth": 0.3457,
-        "irrMinusR": -0.045,
+        "impliedGrowth": 0.5359,
+        "consensusGrowth": 0.3503,
+        "irrMinusR": -0.0432,
         "r": 0.1083,
         "nm": null
       },
       "universePct": {
-        "pct": 42,
+        "pct": 34,
         "n": 532,
         "snapshot": "2026-10-17"
       },
       "profile": "strong: balance (78) \u00b7 weak: valuation (31), quality (35)"
     },
     "VST": {
-      "asOf": "2026-10-19",
-      "score": 50,
+      "asOf": "2026-10-21",
+      "score": 52,
       "ratingRaw": "Hold",
       "rating": "Hold",
       "confidence": "low",
       "coverage": 0.975,
       "pillars": {
         "quality": 47.9,
-        "growth": 46.0,
-        "valuation": 62.4,
+        "growth": 46.2,
+        "valuation": 61.5,
         "balance": 44.5,
-        "momentum": 33.9
+        "momentum": 43.6
       },
       "overlays": [
         "insider: +3 points"
@@ -96,21 +96,21 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.1961,
-        "consensusGrowth": 0.2338,
-        "irrMinusR": 0.014,
+        "impliedGrowth": 0.202,
+        "consensusGrowth": 0.2333,
+        "irrMinusR": 0.0115,
         "r": 0.1035,
         "nm": null
       },
       "universePct": {
-        "pct": 42,
+        "pct": 50,
         "n": 532,
         "snapshot": "2026-10-17"
       },
-      "profile": "strong: valuation (62) \u00b7 weak: momentum (34)"
+      "profile": "strong: valuation (62)"
     },
     "AVGO": {
-      "asOf": "2026-10-19",
+      "asOf": "2026-10-21",
       "score": 50,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -118,10 +118,10 @@
       "coverage": 1.0,
       "pillars": {
         "quality": 59.2,
-        "growth": 54.4,
-        "valuation": 47.9,
+        "growth": 53.6,
+        "valuation": 47.3,
         "balance": 67.1,
-        "momentum": 20.9
+        "momentum": 21.8
       },
       "overlays": [
         "beneish: confidence \u22121"
@@ -133,9 +133,9 @@
         "sector": "SMH"
       },
       "dcf": {
-        "impliedGrowth": 0.3613,
+        "impliedGrowth": 0.3632,
         "consensusGrowth": 0.4,
-        "irrMinusR": 0.0151,
+        "irrMinusR": 0.0143,
         "r": 0.1288,
         "nm": null
       },
@@ -144,10 +144,10 @@
         "n": 532,
         "snapshot": "2026-10-17"
       },
-      "profile": "strong: balance (67) \u00b7 weak: momentum (21)"
+      "profile": "strong: balance (67) \u00b7 weak: momentum (22)"
     },
     "APLD": {
-      "asOf": "2026-10-19",
+      "asOf": "2026-10-21",
       "score": 52,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -155,10 +155,10 @@
       "coverage": 0.643,
       "pillars": {
         "quality": 50.2,
-        "growth": 36.7,
+        "growth": 36.2,
         "valuation": 63.6,
         "balance": 78.0,
-        "momentum": 5.2
+        "momentum": 5.8
       },
       "overlays": [
         "insider: +5 points (capped at +5)"
@@ -181,7 +181,7 @@
         "n": 532,
         "snapshot": "2026-10-17"
       },
-      "profile": "strong: balance (78), valuation (64) \u00b7 weak: momentum (5), growth (37)"
+      "profile": "strong: balance (78), valuation (64) \u00b7 weak: momentum (6), growth (36)"
     }
   }
 }
