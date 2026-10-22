@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-10-17T23:13:44Z",
+  "publishedAt": "2026-10-22T03:22:15Z",
   "tickers": [
     {
       "ticker": "GEV",
@@ -64,6 +64,21 @@
     {
       "ticker": "APLD",
       "name": "Applied Digital Corp.",
+      "alerts": {
+        "pctMove": 4.0,
+        "atrMove": 2.0,
+        "relVolume": 2.0,
+        "priceBelow": null,
+        "priceAbove": null
+      },
+      "earningsNext": null,
+      "thesisBreakers": null,
+      "priceInvalidationClose": null,
+      "phaseNote": null
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
       "alerts": {
         "pctMove": 4.0,
         "atrMove": 2.0,
