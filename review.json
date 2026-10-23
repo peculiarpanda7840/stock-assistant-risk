@@ -1,0 +1,112 @@
+{
+  "publishedAt": "2026-10-23T00:55:21Z",
+  "asOf": "2026-10-22",
+  "kind": "weekly",
+  "reviewedAt": "2026-10-23T00:55:12.475Z",
+  "holdings": [
+    {
+      "ticker": "MAIN",
+      "action": "Trim",
+      "trimPct": 25,
+      "swapTo": null,
+      "triggers": [
+        "lock-gains"
+      ],
+      "cell": "mid/rich",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-22"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "Swap",
+      "trimPct": 25,
+      "swapTo": "MU",
+      "triggers": [
+        "swap"
+      ],
+      "cell": "mid/rich",
+      "lotTerm": "short",
+      "daysToLongTerm": 122,
+      "asOf": "2026-10-22"
+    },
+    {
+      "ticker": "GEV",
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [
+        "engine-buy"
+      ],
+      "cell": "strong/attractive",
+      "lotTerm": "short",
+      "daysToLongTerm": 282,
+      "asOf": "2026-10-22"
+    },
+    {
+      "ticker": "APLD",
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [],
+      "cell": "mid/fair",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-22"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "Trim",
+      "trimPct": 25,
+      "swapTo": null,
+      "triggers": [
+        "lock-gains"
+      ],
+      "cell": "strong/attractive",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-22"
+    },
+    {
+      "ticker": "AVGO",
+      "action": "Swap",
+      "trimPct": 25,
+      "swapTo": "MU",
+      "triggers": [
+        "lock-gains",
+        "swap"
+      ],
+      "cell": "strong/rich",
+      "lotTerm": "long",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-22"
+    }
+  ],
+  "newTriggers": [
+    {
+      "ticker": "MAIN",
+      "trigger": "lock-gains",
+      "action": "Trim"
+    },
+    {
+      "ticker": "GOOGL",
+      "trigger": "swap",
+      "action": "Swap"
+    },
+    {
+      "ticker": "MSFT",
+      "trigger": "lock-gains",
+      "action": "Trim"
+    },
+    {
+      "ticker": "AVGO",
+      "trigger": "lock-gains",
+      "action": "Swap"
+    },
+    {
+      "ticker": "AVGO",
+      "trigger": "swap",
+      "action": "Swap"
+    }
+  ]
+}
