@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-10-23T20:58:40Z",
-  "asOf": "2026-10-23",
-  "kind": "daily",
-  "reviewedAt": "2026-10-23T20:58:12.932Z",
+  "publishedAt": "2026-10-26T10:04:05Z",
+  "asOf": "2026-10-26",
+  "kind": "weekly",
+  "reviewedAt": "2026-10-26T10:03:14.608Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -15,7 +15,7 @@
       "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "GOOGL",
@@ -28,8 +28,8 @@
       ],
       "cell": "mid/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 121,
-      "asOf": "2026-10-23"
+      "daysToLongTerm": 118,
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "GEV",
@@ -42,8 +42,8 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 281,
-      "asOf": "2026-10-23"
+      "daysToLongTerm": 278,
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "APLD",
@@ -54,7 +54,7 @@
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "MSFT",
@@ -67,7 +67,7 @@
       "cell": "strong/attractive",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "IREN",
@@ -80,7 +80,7 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-26"
     },
     {
       "ticker": "AVGO",
@@ -94,22 +94,25 @@
       "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-26"
+    },
+    {
+      "ticker": "RIOT",
+      "action": "Trim",
+      "trimPct": 25,
+      "swapTo": null,
+      "triggers": [
+        "engine-sell"
+      ],
+      "cell": "weak/rich",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-26"
     }
   ],
   "newTriggers": [
     {
-      "ticker": "GOOGL",
-      "trigger": "invalidation",
-      "action": "Swap"
-    },
-    {
-      "ticker": "GEV",
-      "trigger": "invalidation",
-      "action": "Trim"
-    },
-    {
-      "ticker": "IREN",
+      "ticker": "RIOT",
       "trigger": "engine-sell",
       "action": "Trim"
     }
