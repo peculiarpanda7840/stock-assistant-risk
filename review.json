@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-10-26T20:53:37Z",
-  "asOf": "2026-10-26",
+  "publishedAt": "2026-10-27T20:53:52Z",
+  "asOf": "2026-10-27",
   "kind": "daily",
-  "reviewedAt": "2026-10-26T20:53:14.930Z",
+  "reviewedAt": "2026-10-27T20:53:15.646Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -15,7 +15,7 @@
       "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "GOOGL",
@@ -28,8 +28,8 @@
       ],
       "cell": "mid/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 118,
-      "asOf": "2026-10-26"
+      "daysToLongTerm": 117,
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "GEV",
@@ -41,8 +41,8 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 278,
-      "asOf": "2026-10-26"
+      "daysToLongTerm": 277,
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "APLD",
@@ -53,7 +53,7 @@
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "MSFT",
@@ -66,7 +66,7 @@
       "cell": "strong/attractive",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "IREN",
@@ -79,7 +79,7 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "AVGO",
@@ -93,7 +93,7 @@
       "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     },
     {
       "ticker": "RIOT",
@@ -106,7 +106,7 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     }
   ],
   "newTriggers": []
