@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-10-29T20:53:59Z",
-  "asOf": "2026-10-29",
+  "publishedAt": "2026-10-30T20:56:23Z",
+  "asOf": "2026-10-30",
   "kind": "daily",
-  "reviewedAt": "2026-10-29T20:53:17.188Z",
+  "reviewedAt": "2026-10-30T20:55:46.263Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -15,7 +15,7 @@
       "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "GEV",
@@ -27,8 +27,8 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 275,
-      "asOf": "2026-10-29"
+      "daysToLongTerm": 274,
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "GOOGL",
@@ -41,8 +41,8 @@
       ],
       "cell": "weak/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 115,
-      "asOf": "2026-10-29"
+      "daysToLongTerm": 114,
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "APLD",
@@ -53,7 +53,7 @@
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "MSFT",
@@ -66,7 +66,7 @@
       "cell": "strong/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "IREN",
@@ -79,20 +79,7 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-29"
-    },
-    {
-      "ticker": "RIOT",
-      "action": "Trim",
-      "trimPct": 25,
-      "swapTo": null,
-      "triggers": [
-        "engine-sell"
-      ],
-      "cell": "weak/rich",
-      "lotTerm": "unknown",
-      "daysToLongTerm": null,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     },
     {
       "ticker": "AVGO",
@@ -106,14 +93,21 @@
       "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
+    },
+    {
+      "ticker": "RIOT",
+      "action": "Trim",
+      "trimPct": 25,
+      "swapTo": null,
+      "triggers": [
+        "engine-sell"
+      ],
+      "cell": "weak/rich",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-10-30"
     }
   ],
-  "newTriggers": [
-    {
-      "ticker": "GOOGL",
-      "trigger": "engine-sell",
-      "action": "Trim"
-    }
-  ]
+  "newTriggers": []
 }
