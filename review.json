@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-02T11:01:35Z",
+  "publishedAt": "2026-11-02T22:12:02Z",
   "asOf": "2026-11-02",
-  "kind": "weekly",
-  "reviewedAt": "2026-11-02T11:00:48.134Z",
+  "kind": "daily",
+  "reviewedAt": "2026-11-02T22:11:06.996Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -63,7 +63,7 @@
       "triggers": [
         "lock-gains"
       ],
-      "cell": "strong/fair",
+      "cell": "strong/attractive",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "asOf": "2026-11-02"
