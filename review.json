@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-10-30T20:56:23Z",
-  "asOf": "2026-10-30",
-  "kind": "daily",
-  "reviewedAt": "2026-10-30T20:55:46.263Z",
+  "publishedAt": "2026-11-02T11:01:35Z",
+  "asOf": "2026-11-02",
+  "kind": "weekly",
+  "reviewedAt": "2026-11-02T11:00:48.134Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -15,7 +15,7 @@
       "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "GEV",
@@ -27,8 +27,8 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 274,
-      "asOf": "2026-10-30"
+      "daysToLongTerm": 271,
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "GOOGL",
@@ -41,8 +41,8 @@
       ],
       "cell": "weak/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 114,
-      "asOf": "2026-10-30"
+      "daysToLongTerm": 111,
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "APLD",
@@ -53,7 +53,7 @@
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "MSFT",
@@ -66,7 +66,7 @@
       "cell": "strong/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "IREN",
@@ -79,7 +79,18 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
+    },
+    {
+      "ticker": "WULF",
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [],
+      "cell": "weak/rich",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "AVGO",
@@ -93,7 +104,7 @@
       "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     },
     {
       "ticker": "RIOT",
@@ -106,7 +117,7 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "asOf": "2026-10-30"
+      "asOf": "2026-11-02"
     }
   ],
   "newTriggers": []
