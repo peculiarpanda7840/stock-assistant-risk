@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-03T22:28:57Z",
+  "publishedAt": "2026-11-04T00:14:33Z",
   "asOf": "2026-11-03",
   "kind": "daily",
   "reviewedAt": "2026-11-03T22:24:55.241Z",
@@ -15,6 +15,7 @@
       "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -28,6 +29,7 @@
       "cell": "strong/attractive",
       "lotTerm": "short",
       "daysToLongTerm": 270,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -42,6 +44,7 @@
       "cell": "weak/rich",
       "lotTerm": "short",
       "daysToLongTerm": 110,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -53,6 +56,7 @@
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -66,6 +70,7 @@
       "cell": "strong/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -77,6 +82,7 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -90,6 +96,7 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -103,6 +110,7 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     },
     {
@@ -117,6 +125,7 @@
       "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
+      "flags": [],
       "asOf": "2026-11-03"
     }
   ],
