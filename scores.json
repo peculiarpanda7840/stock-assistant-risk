@@ -1,20 +1,20 @@
 {
-  "publishedAt": "2026-11-04T00:16:20Z",
-  "engine": "3.0.0",
+  "publishedAt": "2026-11-04T21:54:19Z",
+  "engine": "3.1.0",
   "tickers": {
     "GEV": {
-      "asOf": "2026-11-03",
-      "score": 73,
+      "asOf": "2026-11-04",
+      "score": 70,
       "ratingRaw": "Buy",
       "rating": "Buy",
       "confidence": "low",
       "coverage": 0.917,
       "pillars": {
         "quality": 74.5,
-        "growth": 70.7,
-        "valuation": 70.3,
-        "balance": 75.2,
-        "momentum": 40.6
+        "growth": 66.5,
+        "valuation": 71.3,
+        "balance": 73.2,
+        "momentum": 32.3
       },
       "overlays": [],
       "caps": [],
@@ -24,28 +24,28 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.0496,
+        "impliedGrowth": 0.0312,
         "consensusGrowth": 0.1926,
-        "irrMinusR": 0.0758,
-        "r": 0.111,
+        "irrMinusR": 0.0897,
+        "r": 0.1114,
         "nm": null
       },
       "universePct": {
-        "pct": 98,
+        "pct": 97,
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: quality (75), balance (75), growth (71), valuation (70)",
-      "business": 72.7,
-      "entry": 61.4,
-      "businessPct": 98.0,
-      "entryPct": 86.6,
+      "profile": "strong: quality (75), balance (73), valuation (71), growth (67) \u00b7 weak: momentum (32)",
+      "business": 70.3,
+      "entry": 59.6,
+      "businessPct": 96.7,
+      "entryPct": 82.6,
       "cell": "strong/attractive",
       "peakGuard": null,
-      "floorPass": null
+      "floorPass": true
     },
     "GOOGL": {
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "score": 43,
       "ratingRaw": "Sell",
       "rating": "Sell",
@@ -54,9 +54,9 @@
       "pillars": {
         "quality": 34.8,
         "growth": 38.2,
-        "valuation": 40.3,
+        "valuation": 39.4,
         "balance": 68.3,
-        "momentum": 24.0
+        "momentum": 24.7
       },
       "overlays": [],
       "caps": [],
@@ -69,7 +69,7 @@
         "impliedGrowth": null,
         "consensusGrowth": null,
         "irrMinusR": null,
-        "r": 0.1068,
+        "r": 0.1072,
         "nm": "n/m: FCF \u2212 SBC \u2264 0 (-10662M): no cash flow to discount"
       },
       "universePct": {
@@ -77,31 +77,32 @@
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: balance (68) \u00b7 weak: momentum (24), quality (35), growth (38), valuation (40)",
+      "profile": "strong: balance (68) \u00b7 weak: momentum (25), quality (35), growth (38), valuation (39)",
       "business": 43.2,
-      "entry": 35.4,
+      "entry": 35.0,
       "businessPct": 19.4,
-      "entryPct": 9.5,
+      "entryPct": 8.7,
       "cell": "weak/rich",
       "peakGuard": null,
-      "floorPass": null
+      "floorPass": false
     },
     "VST": {
-      "asOf": "2026-11-03",
-      "score": 48,
+      "asOf": "2026-11-04",
+      "score": 46,
       "ratingRaw": "Hold",
       "rating": "Hold",
       "confidence": "low",
       "coverage": 0.975,
       "pillars": {
         "quality": 46.3,
-        "growth": 44.6,
-        "valuation": 62.9,
+        "growth": 40.0,
+        "valuation": 73.8,
         "balance": 45.8,
-        "momentum": 21.2
+        "momentum": 12.6
       },
       "overlays": [
-        "insider: +3 points on Business"
+        "insider: +3 points on Business",
+        "hysteresis: kept mid/attractive (plain thirds read weak/attractive)"
       ],
       "caps": [],
       "peerSet": "sector energy_infrastructure (18)",
@@ -110,28 +111,28 @@
         "sector": "XLU"
       },
       "dcf": {
-        "impliedGrowth": 0.1817,
-        "consensusGrowth": 0.1936,
-        "irrMinusR": 0.0043,
-        "r": 0.1018,
+        "impliedGrowth": 0.1633,
+        "consensusGrowth": 0.1938,
+        "irrMinusR": 0.0115,
+        "r": 0.1022,
         "nm": null
       },
       "universePct": {
-        "pct": 38,
+        "pct": 29,
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: valuation (63) \u00b7 weak: momentum (21)",
-      "business": 48.4,
-      "entry": 50.4,
-      "businessPct": 37.8,
-      "entryPct": 53.0,
-      "cell": "mid/fair",
+      "profile": "strong: valuation (74) \u00b7 weak: momentum (13), growth (40)",
+      "business": 46.0,
+      "entry": 55.4,
+      "businessPct": 28.6,
+      "entryPct": 72.1,
+      "cell": "mid/attractive",
       "peakGuard": null,
-      "floorPass": null
+      "floorPass": true
     },
     "AVGO": {
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "score": 57,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -140,9 +141,9 @@
       "pillars": {
         "quality": 58.9,
         "growth": 51.5,
-        "valuation": 45.8,
+        "valuation": 48.6,
         "balance": 66.0,
-        "momentum": 20.1
+        "momentum": 22.4
       },
       "overlays": [
         "beneish: confidence \u22121"
@@ -154,10 +155,10 @@
         "sector": "SMH"
       },
       "dcf": {
-        "impliedGrowth": 0.3548,
+        "impliedGrowth": 0.3517,
         "consensusGrowth": 0.4,
-        "irrMinusR": 0.0176,
-        "r": 0.1269,
+        "irrMinusR": 0.019,
+        "r": 0.1273,
         "nm": null
       },
       "universePct": {
@@ -165,17 +166,17 @@
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: balance (66) \u00b7 weak: momentum (20)",
+      "profile": "strong: balance (66) \u00b7 weak: momentum (22)",
       "business": 56.6,
-      "entry": 38.1,
+      "entry": 40.7,
       "businessPct": 69.7,
-      "entryPct": 14.0,
+      "entryPct": 20.7,
       "cell": "strong/rich",
-      "peakGuard": null,
-      "floorPass": null
+      "peakGuard": false,
+      "floorPass": true
     },
     "APLD": {
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "score": 48,
       "ratingRaw": "Hold",
       "rating": "Hold",
@@ -183,10 +184,10 @@
       "coverage": 0.643,
       "pillars": {
         "quality": 50.2,
-        "growth": 24.2,
-        "valuation": 63.6,
+        "growth": 24.5,
+        "valuation": 64.2,
         "balance": 78.0,
-        "momentum": 4.5
+        "momentum": 5.5
       },
       "overlays": [
         "insider: +5 points on Business (capped at +5)"
@@ -201,7 +202,7 @@
         "impliedGrowth": null,
         "consensusGrowth": null,
         "irrMinusR": null,
-        "r": 0.1715,
+        "r": 0.1719,
         "nm": "n/m: FCF \u2212 SBC \u2264 0 (-4727M): no cash flow to discount"
       },
       "universePct": {
@@ -209,43 +210,46 @@
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: balance (78), valuation (64) \u00b7 weak: momentum (5), growth (24)",
-      "business": 47.8,
-      "entry": 45.9,
-      "businessPct": 35.6,
-      "entryPct": 37.4,
+      "profile": "strong: balance (78), valuation (64) \u00b7 weak: momentum (6), growth (24)",
+      "business": 47.9,
+      "entry": 46.6,
+      "businessPct": 35.9,
+      "entryPct": 39.9,
       "cell": "mid/fair",
       "peakGuard": null,
-      "floorPass": null
+      "floorPass": true
     },
     "MU": {
-      "asOf": "2026-11-03",
+      "asOf": "2026-11-04",
       "score": 81,
       "ratingRaw": "Buy",
-      "rating": "Buy",
-      "confidence": "med",
+      "rating": "Hold",
+      "confidence": "low",
       "coverage": 1.0,
       "pillars": {
         "quality": 79.7,
-        "growth": 79.0,
+        "growth": 79.8,
         "valuation": 98.5,
         "balance": 86.5,
-        "momentum": 90.4
+        "momentum": 81.1
       },
       "overlays": [
-        "beneish: confidence \u22121"
+        "beneish: confidence \u22121",
+        "peak_guard: Buy \u2192 Hold, confidence low"
       ],
-      "caps": [],
+      "caps": [
+        "Peak-margin guard: Buy held at Hold (pack semis: TTM gross margin 80.7% vs 5-yr median 38.5% (n=20): 2.10\u00d7, +42.3pp > 1.5\u00d7 or +15.0pp; TTM operating margin 74.6% vs 5-yr median 23.9% (n=20): 3.12\u00d7, +50.7pp > 1.5\u00d7 or +15.0pp)"
+      ],
       "peerSet": "sector chips_memory (20)",
       "benchmarks": {
         "primary": "SPY",
         "sector": "SMH"
       },
       "dcf": {
-        "impliedGrowth": 0.1196,
+        "impliedGrowth": 0.1056,
         "consensusGrowth": 0.4,
-        "irrMinusR": 0.1657,
-        "r": 0.1284,
+        "irrMinusR": 0.1788,
+        "r": 0.1288,
         "nm": null
       },
       "universePct": {
@@ -253,14 +257,14 @@
         "n": 533,
         "snapshot": "2026-10-31"
       },
-      "profile": "strong: valuation (98), momentum (90), balance (87), quality (80), growth (79)",
-      "business": 80.7,
-      "entry": 96.0,
+      "profile": "strong: valuation (98), balance (87), momentum (81), quality (80), growth (80)",
+      "business": 81.1,
+      "entry": 93.3,
       "businessPct": 99.9,
       "entryPct": 99.9,
       "cell": "strong/attractive",
-      "peakGuard": null,
-      "floorPass": null
+      "peakGuard": true,
+      "floorPass": true
     }
   }
 }
