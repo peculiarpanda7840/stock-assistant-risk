@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-04T00:16:22Z",
+  "publishedAt": "2026-11-04T01:42:33Z",
   "asOf": "2026-11-03",
   "kind": "daily",
-  "reviewedAt": "2026-11-03T22:24:55.241Z",
+  "reviewedAt": "2026-11-04T01:41:56.659Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -96,7 +96,9 @@
       "cell": "weak/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "flags": [],
+      "flags": [
+        "wash-sale"
+      ],
       "asOf": "2026-11-03"
     },
     {
@@ -110,21 +112,20 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
-      "flags": [],
+      "flags": [
+        "wash-sale"
+      ],
       "asOf": "2026-11-03"
     },
     {
       "ticker": "AVGO",
-      "action": "Swap",
-      "trimPct": 25,
-      "swapTo": "MU",
-      "triggers": [
-        "lock-gains",
-        "swap"
-      ],
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [],
       "cell": "strong/rich",
-      "lotTerm": "long",
-      "daysToLongTerm": null,
+      "lotTerm": "mixed",
+      "daysToLongTerm": 59,
       "flags": [],
       "asOf": "2026-11-03"
     }
