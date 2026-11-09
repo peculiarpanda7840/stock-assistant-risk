@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-06T21:56:11Z",
-  "asOf": "2026-11-06",
-  "kind": "daily",
-  "reviewedAt": "2026-11-06T21:55:20.335Z",
+  "publishedAt": "2026-11-09T11:04:10Z",
+  "asOf": "2026-11-09",
+  "kind": "weekly",
+  "reviewedAt": "2026-11-09T11:03:11.945Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -16,7 +16,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "GOOGL",
@@ -29,9 +29,9 @@
       ],
       "cell": "weak/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 107,
+      "daysToLongTerm": 104,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "GEV",
@@ -44,9 +44,9 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 267,
+      "daysToLongTerm": 264,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "MSFT",
@@ -60,7 +60,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "APLD",
@@ -72,7 +72,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "WULF",
@@ -84,7 +84,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "IREN",
@@ -100,7 +100,7 @@
       "flags": [
         "wash-sale"
       ],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "RIOT",
@@ -116,7 +116,7 @@
       "flags": [
         "wash-sale"
       ],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     },
     {
       "ticker": "AVGO",
@@ -124,22 +124,23 @@
       "trimPct": null,
       "swapTo": null,
       "triggers": [
-        "invalidation"
+        "invalidation",
+        "swap"
       ],
-      "cell": "strong/fair",
+      "cell": "strong/rich",
       "lotTerm": "long",
       "daysToLongTerm": null,
       "flags": [
         "below-minimum"
       ],
-      "asOf": "2026-11-06"
+      "asOf": "2026-11-09"
     }
   ],
   "newTriggers": [
     {
-      "ticker": "RIOT",
-      "trigger": "engine-sell",
-      "action": "Trim"
+      "ticker": "AVGO",
+      "trigger": "swap",
+      "action": "Keep"
     }
   ]
 }
