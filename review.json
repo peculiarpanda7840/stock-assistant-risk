@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-09T11:04:10Z",
+  "publishedAt": "2026-11-09T21:53:38Z",
   "asOf": "2026-11-09",
-  "kind": "weekly",
-  "reviewedAt": "2026-11-09T11:03:11.945Z",
+  "kind": "daily",
+  "reviewedAt": "2026-11-09T21:53:12.429Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -19,21 +19,6 @@
       "asOf": "2026-11-09"
     },
     {
-      "ticker": "GOOGL",
-      "action": "Trim",
-      "trimPct": 25,
-      "swapTo": null,
-      "triggers": [
-        "invalidation",
-        "engine-sell"
-      ],
-      "cell": "weak/rich",
-      "lotTerm": "short",
-      "daysToLongTerm": 104,
-      "flags": [],
-      "asOf": "2026-11-09"
-    },
-    {
       "ticker": "GEV",
       "action": "Trim",
       "trimPct": 25,
@@ -45,6 +30,21 @@
       "cell": "strong/attractive",
       "lotTerm": "short",
       "daysToLongTerm": 264,
+      "flags": [],
+      "asOf": "2026-11-09"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "Trim",
+      "trimPct": 25,
+      "swapTo": null,
+      "triggers": [
+        "invalidation",
+        "engine-sell"
+      ],
+      "cell": "weak/rich",
+      "lotTerm": "short",
+      "daysToLongTerm": 104,
       "flags": [],
       "asOf": "2026-11-09"
     },
@@ -80,7 +80,7 @@
       "trimPct": null,
       "swapTo": null,
       "triggers": [],
-      "cell": "weak/rich",
+      "cell": "mid/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
@@ -124,7 +124,6 @@
       "trimPct": null,
       "swapTo": null,
       "triggers": [
-        "invalidation",
         "swap"
       ],
       "cell": "strong/rich",
@@ -136,11 +135,5 @@
       "asOf": "2026-11-09"
     }
   ],
-  "newTriggers": [
-    {
-      "ticker": "AVGO",
-      "trigger": "swap",
-      "action": "Keep"
-    }
-  ]
+  "newTriggers": []
 }
