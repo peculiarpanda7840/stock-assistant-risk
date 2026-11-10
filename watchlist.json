@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-04T00:16:23Z",
+  "publishedAt": "2026-11-10T02:43:53Z",
   "tickers": [
     {
       "ticker": "GEV",
@@ -11,7 +11,7 @@
         "priceBelow": null,
         "priceAbove": null
       },
-      "earningsNext": "2026-10-28",
+      "earningsNext": "2027-01-27",
       "thesisBreakers": "gas turbine backlog down q/q, 2026 FCF guide < $11.5B, Power segment margin < 16%",
       "priceInvalidationClose": 852.6,
       "phaseNote": null
@@ -26,7 +26,7 @@
         "priceBelow": null,
         "priceAbove": null
       },
-      "earningsNext": "2026-10-28",
+      "earningsNext": null,
       "thesisBreakers": "Search growth < 5%, Cloud growth < 40% while capex rises, share count up > 2%",
       "priceInvalidationClose": 330.84,
       "phaseNote": "capex guide $195-205B and buybacks paused 1H26, so the phase read is ambiguous (not a clean Phase 4)"
@@ -56,7 +56,7 @@
         "priceBelow": null,
         "priceAbove": null
       },
-      "earningsNext": null,
+      "earningsNext": "2026-12-09",
       "thesisBreakers": "TTM revenue growth < +20% YoY (+48.7% now), TTM operating margin < 40% (48.1% now), NTM consensus revenue growth < +30% (+92% now), net debt/EBITDA > 2.0x (0.8x now)",
       "priceInvalidationClose": 294.04,
       "phaseNote": null
@@ -71,7 +71,7 @@
         "priceBelow": null,
         "priceAbove": null
       },
-      "earningsNext": null,
+      "earningsNext": "2027-01-06",
       "thesisBreakers": "data-center rental revenue down q/q ($79.1M in FQ1 FY27) or a CoreWeave lease terminated/defaulted, substantial-doubt (going concern) language, Polaris Forge 2/3 energization delayed past company guidance, net share count up > 30% YoY (+23.7% now)",
       "priceInvalidationClose": 13.42,
       "phaseNote": null
@@ -86,7 +86,7 @@
         "priceBelow": null,
         "priceAbove": null
       },
-      "earningsNext": null,
+      "earningsNext": "2026-12-23",
       "thesisBreakers": "gross margin < 60% (81% FY26), NTM consensus revenue growth < 0% (+111% now), inventory days > 160 (133 now), 90-day EPS revisions < -10%",
       "priceInvalidationClose": 712.64,
       "phaseNote": null
