@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-09T21:48:36Z",
+  "publishedAt": "2026-11-10T02:43:53Z",
   "engine": "3.1.0",
   "tickers": {
     "GEV": {
@@ -42,7 +42,8 @@
       "entryPct": 84.0,
       "cell": "strong/attractive",
       "peakGuard": null,
-      "floorPass": true
+      "floorPass": true,
+      "optionsSignal": null
     },
     "GOOGL": {
       "asOf": "2026-11-09",
@@ -84,7 +85,8 @@
       "entryPct": 11.4,
       "cell": "weak/rich",
       "peakGuard": null,
-      "floorPass": false
+      "floorPass": false,
+      "optionsSignal": null
     },
     "VST": {
       "asOf": "2026-11-09",
@@ -128,7 +130,8 @@
       "entryPct": 74.6,
       "cell": "mid/attractive",
       "peakGuard": null,
-      "floorPass": false
+      "floorPass": false,
+      "optionsSignal": null
     },
     "AVGO": {
       "asOf": "2026-11-09",
@@ -172,7 +175,8 @@
       "entryPct": 14.0,
       "cell": "strong/rich",
       "peakGuard": false,
-      "floorPass": true
+      "floorPass": true,
+      "optionsSignal": null
     },
     "APLD": {
       "asOf": "2026-11-09",
@@ -216,7 +220,8 @@
       "entryPct": 38.4,
       "cell": "mid/fair",
       "peakGuard": null,
-      "floorPass": true
+      "floorPass": true,
+      "optionsSignal": null
     },
     "MU": {
       "asOf": "2026-11-09",
@@ -263,7 +268,8 @@
       "entryPct": 99.9,
       "cell": "strong/attractive",
       "peakGuard": true,
-      "floorPass": true
+      "floorPass": true,
+      "optionsSignal": null
     }
   }
 }
