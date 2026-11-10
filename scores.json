@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-10T02:43:53Z",
+  "publishedAt": "2026-11-10T03:43:33Z",
   "engine": "3.1.0",
   "tickers": {
     "GEV": {
@@ -43,7 +43,28 @@
       "cell": "strong/attractive",
       "peakGuard": null,
       "floorPass": true,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.14,
+        "premCallShare": 0.439,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "pass",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     },
     "GOOGL": {
       "asOf": "2026-11-09",
@@ -86,7 +107,28 @@
       "cell": "weak/rich",
       "peakGuard": null,
       "floorPass": false,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.84,
+        "premCallShare": 0.613,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "unknown",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     },
     "VST": {
       "asOf": "2026-11-09",
@@ -131,7 +173,28 @@
       "cell": "mid/attractive",
       "peakGuard": null,
       "floorPass": false,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.28,
+        "premCallShare": 0.811,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "unknown",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     },
     "AVGO": {
       "asOf": "2026-11-09",
@@ -176,7 +239,28 @@
       "cell": "strong/rich",
       "peakGuard": false,
       "floorPass": true,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.19,
+        "premCallShare": 0.54,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "pass",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     },
     "APLD": {
       "asOf": "2026-11-09",
@@ -221,7 +305,28 @@
       "cell": "mid/fair",
       "peakGuard": null,
       "floorPass": true,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.19,
+        "premCallShare": 0.618,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "pass",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     },
     "MU": {
       "asOf": "2026-11-09",
@@ -269,7 +374,28 @@
       "cell": "strong/attractive",
       "peakGuard": true,
       "floorPass": true,
-      "optionsSignal": null
+      "optionsSignal": {
+        "asOf": "2026-11-09",
+        "state": "not_checked",
+        "direction": null,
+        "gap": 0,
+        "bias": null,
+        "move": -0.92,
+        "premCallShare": 0.507,
+        "premCallShareMedian": null,
+        "ivSpreadZ": null,
+        "volumeZ": null,
+        "openSince": null,
+        "confirm": null,
+        "void": null,
+        "gates": {
+          "baseline": "fail",
+          "earnings": "pass",
+          "unusual_volume": "unknown",
+          "volume": "pass"
+        },
+        "track": null
+      }
     }
   }
 }
