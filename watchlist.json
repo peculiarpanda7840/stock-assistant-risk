@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-10T02:43:53Z",
+  "publishedAt": "2026-11-11T05:27:36Z",
   "tickers": [
     {
       "ticker": "GEV",
@@ -72,7 +72,7 @@
         "priceAbove": null
       },
       "earningsNext": "2027-01-06",
-      "thesisBreakers": "data-center rental revenue down q/q ($79.1M in FQ1 FY27) or a CoreWeave lease terminated/defaulted, substantial-doubt (going concern) language, Polaris Forge 2/3 energization delayed past company guidance, net share count up > 30% YoY (+23.7% now)",
+      "thesisBreakers": "substantial-doubt (going concern) language, net share count up > 30% YoY (+23.7% now), TTM operating cash flow < $0M ($235M now), data-center rental revenue down q/q ($79.1M in FQ1 FY27), CoreWeave lease terminated or in default, Polaris Forge 2/3 energization delayed past company guidance",
       "priceInvalidationClose": 13.42,
       "phaseNote": null
     },
