@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-16T11:03:54Z",
+  "publishedAt": "2026-11-16T21:53:10Z",
   "asOf": "2026-11-16",
-  "kind": "weekly",
-  "reviewedAt": "2026-11-16T11:02:41.910Z",
+  "kind": "daily",
+  "reviewedAt": "2026-11-16T21:52:42.266Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -89,6 +89,18 @@
       "asOf": "2026-11-16"
     },
     {
+      "ticker": "RIOT",
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [],
+      "cell": "mid/rich",
+      "lotTerm": "unknown",
+      "daysToLongTerm": null,
+      "flags": [],
+      "asOf": "2026-11-16"
+    },
+    {
       "ticker": "IREN",
       "action": "Trim",
       "trimPct": 25,
@@ -105,24 +117,11 @@
       "asOf": "2026-11-16"
     },
     {
-      "ticker": "RIOT",
-      "action": "Keep",
-      "trimPct": null,
-      "swapTo": null,
-      "triggers": [],
-      "cell": "mid/rich",
-      "lotTerm": "unknown",
-      "daysToLongTerm": null,
-      "flags": [],
-      "asOf": "2026-11-16"
-    },
-    {
       "ticker": "AVGO",
       "action": "Swap",
       "trimPct": 25,
       "swapTo": "GEV",
       "triggers": [
-        "lock-gains",
         "swap"
       ],
       "cell": "strong/rich",
@@ -132,11 +131,5 @@
       "asOf": "2026-11-16"
     }
   ],
-  "newTriggers": [
-    {
-      "ticker": "IREN",
-      "trigger": "engine-sell",
-      "action": "Trim"
-    }
-  ]
+  "newTriggers": []
 }
