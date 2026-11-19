@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-18T21:53:19Z",
-  "asOf": "2026-11-18",
+  "publishedAt": "2026-11-19T21:53:31Z",
+  "asOf": "2026-11-19",
   "kind": "daily",
-  "reviewedAt": "2026-11-18T21:52:44.583Z",
+  "reviewedAt": "2026-11-19T21:52:45.373Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -16,7 +16,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "GOOGL",
@@ -29,9 +29,9 @@
       ],
       "cell": "weak/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 95,
+      "daysToLongTerm": 94,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "GEV",
@@ -44,11 +44,11 @@
       ],
       "cell": "strong/attractive",
       "lotTerm": "short",
-      "daysToLongTerm": 255,
+      "daysToLongTerm": 254,
       "flags": [
         "wash-sale"
       ],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "MSFT",
@@ -62,7 +62,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "APLD",
@@ -74,7 +74,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "WULF",
@@ -86,7 +86,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "RIOT",
@@ -98,7 +98,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "IREN",
@@ -114,7 +114,7 @@
       "flags": [
         "wash-sale"
       ],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     },
     {
       "ticker": "AVGO",
@@ -129,7 +129,7 @@
       "lotTerm": "long",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-18"
+      "asOf": "2026-11-19"
     }
   ],
   "newTriggers": []
