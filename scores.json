@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-11-20T21:48:12Z",
+  "publishedAt": "2026-11-20T22:27:41Z",
   "engine": "3.1.0",
   "tickers": {
     "GEV": {
@@ -44,13 +44,13 @@
       "peakGuard": null,
       "floorPass": true,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": -0.08,
-        "premCallShare": 0.289,
+        "move": -0.44,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -61,7 +61,7 @@
           "baseline": "fail",
           "earnings": "pass",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
@@ -108,13 +108,13 @@
       "peakGuard": null,
       "floorPass": false,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": -0.29,
-        "premCallShare": 0.558,
+        "move": -0.54,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -125,7 +125,7 @@
           "baseline": "fail",
           "earnings": "unknown",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
@@ -174,13 +174,13 @@
       "peakGuard": null,
       "floorPass": false,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": 0.49,
-        "premCallShare": 0.359,
+        "move": -0.4,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -191,7 +191,7 @@
           "baseline": "fail",
           "earnings": "unknown",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
@@ -240,13 +240,13 @@
       "peakGuard": false,
       "floorPass": true,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": 0.97,
-        "premCallShare": 0.475,
+        "move": 0.17,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -257,7 +257,7 @@
           "baseline": "fail",
           "earnings": "pass",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
@@ -306,13 +306,13 @@
       "peakGuard": null,
       "floorPass": true,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": -0.03,
-        "premCallShare": 0.654,
+        "move": -0.71,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -323,7 +323,7 @@
           "baseline": "fail",
           "earnings": "pass",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
@@ -375,13 +375,13 @@
       "peakGuard": true,
       "floorPass": true,
       "optionsSignal": {
-        "asOf": "2026-11-19",
+        "asOf": "2026-11-20",
         "state": "not_checked",
         "direction": null,
         "gap": 0,
         "bias": null,
-        "move": 0.18,
-        "premCallShare": 0.498,
+        "move": -0.49,
+        "premCallShare": null,
         "premCallShareMedian": null,
         "ivSpreadZ": null,
         "volumeZ": null,
@@ -392,7 +392,7 @@
           "baseline": "fail",
           "earnings": "pass",
           "unusual_volume": "unknown",
-          "volume": "pass"
+          "volume": "unknown"
         },
         "track": null
       }
