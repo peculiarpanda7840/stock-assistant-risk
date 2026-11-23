@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-23T11:04:01Z",
+  "publishedAt": "2026-11-23T21:58:18Z",
   "asOf": "2026-11-23",
-  "kind": "weekly",
-  "reviewedAt": "2026-11-23T11:02:48.465Z",
+  "kind": "daily",
+  "reviewedAt": "2026-11-23T21:57:48.755Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -45,9 +45,7 @@
       "cell": "strong/attractive",
       "lotTerm": "short",
       "daysToLongTerm": 250,
-      "flags": [
-        "wash-sale"
-      ],
+      "flags": [],
       "asOf": "2026-11-23"
     },
     {
@@ -66,12 +64,10 @@
     },
     {
       "ticker": "APLD",
-      "action": "Trim",
-      "trimPct": 25,
+      "action": "Keep",
+      "trimPct": null,
       "swapTo": null,
-      "triggers": [
-        "invalidation"
-      ],
+      "triggers": [],
       "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
@@ -103,23 +99,9 @@
       "asOf": "2026-11-23"
     },
     {
-      "ticker": "AVGO",
-      "action": "Swap",
-      "trimPct": 25,
-      "swapTo": "GEV",
-      "triggers": [
-        "swap"
-      ],
-      "cell": "strong/rich",
-      "lotTerm": "long",
-      "daysToLongTerm": null,
-      "flags": [],
-      "asOf": "2026-11-23"
-    },
-    {
       "ticker": "IREN",
-      "action": "Keep",
-      "trimPct": null,
+      "action": "Trim",
+      "trimPct": 25,
       "swapTo": null,
       "triggers": [
         "engine-sell"
@@ -127,11 +109,32 @@
       "cell": "weak/rich",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
+      "flags": [],
+      "asOf": "2026-11-23"
+    },
+    {
+      "ticker": "AVGO",
+      "action": "Keep",
+      "trimPct": null,
+      "swapTo": null,
+      "triggers": [
+        "lock-gains",
+        "swap"
+      ],
+      "cell": "strong/rich",
+      "lotTerm": "long",
+      "daysToLongTerm": null,
       "flags": [
         "below-minimum"
       ],
       "asOf": "2026-11-23"
     }
   ],
-  "newTriggers": []
+  "newTriggers": [
+    {
+      "ticker": "AVGO",
+      "trigger": "lock-gains",
+      "action": "Keep"
+    }
+  ]
 }
