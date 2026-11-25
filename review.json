@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-11-24T21:58:32Z",
-  "asOf": "2026-11-24",
+  "publishedAt": "2026-11-25T21:58:42Z",
+  "asOf": "2026-11-25",
   "kind": "daily",
-  "reviewedAt": "2026-11-24T21:57:49.453Z",
+  "reviewedAt": "2026-11-25T21:57:50.056Z",
   "holdings": [
     {
       "ticker": "MAIN",
@@ -12,11 +12,11 @@
       "triggers": [
         "lock-gains"
       ],
-      "cell": "mid/rich",
+      "cell": "mid/fair",
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "GOOGL",
@@ -29,9 +29,9 @@
       ],
       "cell": "weak/rich",
       "lotTerm": "short",
-      "daysToLongTerm": 89,
+      "daysToLongTerm": 88,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "GEV",
@@ -43,10 +43,12 @@
         "engine-buy"
       ],
       "cell": "strong/attractive",
-      "lotTerm": "unknown",
-      "daysToLongTerm": null,
-      "flags": [],
-      "asOf": "2026-11-24"
+      "lotTerm": "short",
+      "daysToLongTerm": 248,
+      "flags": [
+        "wash-sale"
+      ],
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "MSFT",
@@ -60,7 +62,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "APLD",
@@ -74,7 +76,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "WULF",
@@ -86,7 +88,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "RIOT",
@@ -98,7 +100,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "IREN",
@@ -112,7 +114,7 @@
       "lotTerm": "unknown",
       "daysToLongTerm": null,
       "flags": [],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     },
     {
       "ticker": "AVGO",
@@ -128,14 +130,8 @@
       "flags": [
         "below-minimum"
       ],
-      "asOf": "2026-11-24"
+      "asOf": "2026-11-25"
     }
   ],
-  "newTriggers": [
-    {
-      "ticker": "APLD",
-      "trigger": "invalidation",
-      "action": "Trim"
-    }
-  ]
+  "newTriggers": []
 }
